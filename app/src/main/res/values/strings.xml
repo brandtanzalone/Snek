@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Snek</string>
+    <string name="play">play</string>
+    <string name="high_scores">high scores</string>
+    <string name="snek">SNEK</string>
+    <string name="high_score">HIGH SCORES</string>
+    <string name="Pause">Pause</string>
+    <string name="restart">Restart Game</string>
+
+    />
+</resources>
